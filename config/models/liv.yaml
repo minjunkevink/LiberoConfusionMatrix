@@ -1,0 +1,3 @@
+models:
+  liv:
+    manifest_output_dir: "./data_processed/libero/"

@@ -1,0 +1,9 @@
+[submodule "LIV"]
+	path = LIV
+	url = https://github.com/penn-pal-lab/LIV.git
+[submodule "models/r3m"]
+	path = models/r3m
+	url = https://github.com/facebookresearch/r3m.git
+[submodule "models/CLIP"]
+	path = models/CLIP
+	url = https://github.com/openai/CLIP.git

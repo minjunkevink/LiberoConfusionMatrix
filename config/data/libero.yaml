@@ -1,0 +1,9 @@
+data:
+  name: "LIBERO"
+  base_dir: "../../dataset/libero" 
+  datasets:
+    libero_10: ${data.base_dir}/libero_10
+    libero_90: ${data.base_dir}/libero_90
+    libero_goal: ${data.base_dir}/libero_goal
+    libero_object: ${data.base_dir}/libero_object
+    libero_spatial: ${data.base_dir}/libero_spatial
